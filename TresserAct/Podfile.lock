@@ -1,0 +1,21 @@
+PODS:
+  - Alamofire (3.3.1)
+  - Realm (0.98.7):
+    - Realm/Headers (= 0.98.7)
+  - Realm/Headers (0.98.7)
+  - RealmSwift (0.98.7):
+    - Realm (= 0.98.7)
+  - SwiftyDropbox (3.0.0):
+    - Alamofire (~> 3.1)
+
+DEPENDENCIES:
+  - RealmSwift
+  - SwiftyDropbox
+
+SPEC CHECKSUMS:
+  Alamofire: 369bc67b6f5ac33ded3648d7bd21c5bfb91c2ecc
+  Realm: 46df2178359b6b57812e6cf957956febaba513a5
+  RealmSwift: 3056e6d7ad30ed50dd866185a615fccea73db5f5
+  SwiftyDropbox: e0d4aa3166082ec07ed942e94edb8c732b3376e4
+
+COCOAPODS: 0.39.0
